@@ -16,3 +16,12 @@ bastion_size = "t2.micro"
 web_node_size = "t2.micro"
 webnodes      = 2
 
+
+# Web instances
+web_node_size = "t2.micro"
+webnodes      = 2
+
+# Db instances
+db_node_size = "t2.micro"
+dbnodes      = 2
+
